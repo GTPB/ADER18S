@@ -12,11 +12,6 @@ The following co-authors contributed to the development of the training material
 * [Daniel Faria](https://github.com/DanFaria)
 * [Daniel Neves](https://github.com/amar00k)
 
-#### Credits
-
-- Barsnes (http://www.cbu.uib.no/barsnes), CompOmics (https://compomics.com) & statOmics (https://statomics.github.io) teams. The repo was cloned from https://github.com/statOmics/pda, https://statomics.github.io/pda
-- The [rocker-binder team](https://github.com/rocker-org/binder) for providing a docker image with shiny proxy support.
-
 #### Course Webpage
 This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2018/ADER18S/), for further information about the course.
 
