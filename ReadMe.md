@@ -1,11 +1,29 @@
 ## ADER18S - Analysis of Differential Expression with RNAseq (Second course in 2018)
 
 ###  Instituto Gulbenkian de Ciência (IGC) - Oeiras, Portugal - October 8<sup>th</sup> - October 12<sup>th</sup> 2018
-Go to the [course oficial website](http://gtpb.igc.gulbenkian.pt/bicourses/2018/ADER18S/)
 
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a website using Markdown and git.
+#### Co-Authorship
 
+The following co-authors contributed to the development of the training material.
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+* [Daniel Sobral](https://github.com/dsobral)
+* [Daniel Faria](https://github.com/DanFaria)
+* [Daniel Neves](https://github.com/amar00k)
+
+#### Credits
+
+- Barsnes (http://www.cbu.uib.no/barsnes), CompOmics (https://compomics.com) & statOmics (https://statomics.github.io) teams. The repo was cloned from https://github.com/statOmics/pda, https://statomics.github.io/pda
+- The [rocker-binder team](https://github.com/rocker-org/binder) for providing a docker image with shiny proxy support.
+
+#### Course Webpage
+This is the link to the [course webpage](http://gtpb.igc.gulbenkian.pt/bicourses/2018/ADER18S/), for further information about the course.
+
+---
+
+The source for this course webpage is [on github](https://github.com/GTPB/ADER18S).
+
+<br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ADER18S</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">GTPB</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
