@@ -1,6 +1,13 @@
 ---
 layout: page
 title: Learning Objectives and Course Pre-requisites
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+  isPartOf:
+      url: "https://gtpb.github.io/ADER18S/"
+      name: "ADER18F - Analysis of Differential Expression with RNAseq (Second course in 2018)"
 ---
 
 # Learning Objectives
