@@ -1,9 +1,47 @@
 ---
 layout: page
-title: ADER18S
-tagline: Analysis of Differential Expression with RNAseq (Second course in 2018)
-description: Introductory course that covers practical aspects of the analysis of differential gene expression by RNAseq
+schemadotorg:
+  "@context": http://schema.org/
+  "@type": CreativeWork
+  "genre": TrainingMaterial
+
+  # Course details
+       # "name" -> The name of the course
+       # "description" -> Short description of the course
+  name: "ADER18S - Analysis of Differential Expression with RNAseq (Second course in 2018)"
+  description: "Training material for introductory course that covers practical aspects of the analysis of differential gene expression by RNAseq."
+
+  # Keywords -> Consult EDAM:Topic
+  keywords:  ["http://edamontology.org/topic_3170","http://edamontology.org/topic_0622", "http://edamontology.org/topic_0099"]
+
+  # Audience -> Following Elixir-Tess input
+  audience: ["Academia/ Research Institution", "Industry", "Non-Profit Organisation", "Healthcare"]
+
+  # Author info
+  author:
+    - "@type": Organization
+      name: "The Gulbenkian Training Programme in Bioinformatics"
+      alternateName: "GTPB"
+      sameAs: "gtpb.igc.gulbenkian.pt/bicourses/index.html"
+
+  # predominant type of learning resources
+  "learningResourceType": ["presentation", "exercise", "scripts", "handout"]
+
+  # Contributor info
+  contributor:
+    - "@type": Person
+      name: "Daniel Sobral"
+    - "@type": Person
+      name: "Daniel Neves"
+    - "@type": Person
+      name: "Daniel Faria"
+
+  # License & Language & url
+  license: https://creativecommons.org/licenses/by/4.0/
+  inLanguage: "en-us"
+  url: "https://gtpb.github.io/ADER18S/"
 ---
+
 ![](./pages/images/Entry_index_image.jpg)
 
 ## Course Description
